@@ -1,10 +1,10 @@
 {
-    "name": "bryglen/yii2-omnipay",
-    "description": "thephpleague/omnipay for Yii 2",
-    "type": "yii2-extension",
-    "keywords": ["yii2", "extension", "phpleague", "bryglen", "omnipay"],
+    "name": "istvanfodor/yii-omnipay",
+    "description": "thephpleague/omnipay for Yii 1",
+    "type": "yii1-extension",
+    "keywords": ["yii1", "extension", "phpleague", "istvanfodor", "omnipay"],
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "0.0.1",
     "authors": [
         {
             "name": "Bryan Jayson Tan",

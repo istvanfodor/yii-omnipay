@@ -3,12 +3,12 @@
  * @author Bryan Tan <bryantan16@gmail.com>
  */
 
-namespace bryglen\omnipay;
+namespace istvanfodor\omnipay;
 
 use Omnipay\Omnipay;
-use yii\base\Component;
+use Yii;
 
-class OmniPayComponent extends Component
+class OmniPayComponent extends \CComponent
 {
     public $name;
 
