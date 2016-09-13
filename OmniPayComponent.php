@@ -3,7 +3,7 @@
  * @author Bryan Tan <bryantan16@gmail.com>
  */
 
-namespace istvanfodor\omnipay;
+namespace istvanfodor\omnipay; 
 
 use Omnipay\Omnipay;
 use Yii;
