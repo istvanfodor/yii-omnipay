@@ -1,6 +1,6 @@
-Yii 2 Omnipay
+Yii 1 Omnipay
 ==============
-Yii 2 use omni pay based on `https://github.com/thephpleague/omnipay`
+Yii 1 use omni pay based on `https://github.com/bryglen/yii2-omnipay`
 
 Installation
 ------------
@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist bryglen/yii2-omnipay "1.0.0"
+php composer.phar require --prefer-dist istvanfodor/yii-omnipay "1.0.0"
 ```
 
 or add
 
 ```
-"bryglen/yii2-omnipay": "1.0.0"
+"istvanfodor/yii-omnipay": "1.0.0"
 ```
 
 to the require section of your `composer.json` file.
@@ -28,7 +28,7 @@ in your main.php your configuration would look like this
 ```php
 'components' => [
     'stripe' => [
-        'class' => 'bryglen\omnipay\OmniPayComponent',
+        'class' => 'istvanfodor\omnipay\OmniPayComponent',
         'name' => 'Stripe',
         // optional parameters
         //'testMode' => true,
