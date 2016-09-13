@@ -4,7 +4,7 @@
     "type": "yii1-extension",
     "keywords": ["yii1", "extension", "phpleague", "istvanfodor", "omnipay"],
     "license": "MIT",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Bryan Jayson Tan",
