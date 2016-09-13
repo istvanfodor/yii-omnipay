@@ -4,11 +4,11 @@
     "type": "yii1-extension",
     "keywords": ["yii1", "extension", "phpleague", "istvanfodor", "omnipay"],
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "authors": [
         {
-            "name": "Bryan Jayson Tan",
-            "email": "bryantan16@gmail.com"
+            "name": "Istvan Fodor",
+            "email": "istvan.fodor@3dgroupuk.com"
         }
     ],
     "require": {

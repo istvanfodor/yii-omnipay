@@ -1,6 +1,6 @@
 Yii 1 Omnipay
 ==============
-Yii 1 use omni pay based on `https://github.com/bryglen/yii2-omnipay`
+Yii 1 use omni pay based on `https://github.com/istvanfodor/yii-omnipay`
 
 Installation
 ------------
@@ -10,7 +10,7 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist istvanfodor/yii-omnipay "1.0.0"
+php composer.phar require --prefer-dist istvanfodor/yii-omnipay "1.0.1"
 ```
 
 or add
